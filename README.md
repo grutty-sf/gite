@@ -1,4 +1,4 @@
-# gits
+# gite
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -7,18 +7,18 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/gits.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/gits
-[travis-image]: https://img.shields.io/travis/eggjs/gits.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/gits
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/gits.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/gits?branch=master
-[david-image]: https://img.shields.io/david/eggjs/gits.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/gits
-[snyk-image]: https://snyk.io/test/npm/gits/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/gits
-[download-image]: https://img.shields.io/npm/dm/gits.svg?style=flat-square
-[download-url]: https://npmjs.org/package/gits
+[npm-image]: https://img.shields.io/npm/v/gite.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/gite
+[travis-image]: https://img.shields.io/travis/eggjs/gite.svg?style=flat-square
+[travis-url]: https://travis-ci.org/eggjs/gite
+[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/gite.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/eggjs/gite?branch=master
+[david-image]: https://img.shields.io/david/eggjs/gite.svg?style=flat-square
+[david-url]: https://david-dm.org/eggjs/gite
+[snyk-image]: https://snyk.io/test/npm/gite/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/gite
+[download-image]: https://img.shields.io/npm/dm/gite.svg?style=flat-square
+[download-url]: https://npmjs.org/package/gite
 
 <!--
 Description here.
@@ -33,9 +33,10 @@ $ npm i gite -g --save
 ## Usage
 > First you have to set config.js
 
-$ gite pull --groupProjectName
-$ gite pull --groupProjectName=all
-$ gite pull --groupProjectName=projectName
+gite pull --groupProjectName
+gite pull --groupProjectName=all
+gite pull --groupProjectName=projectName
+
 
 ## Configuration
 

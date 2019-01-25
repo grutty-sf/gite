@@ -33,9 +33,9 @@ $ npm i gite -g --save
 ## Usage
 > First you have to set config.js
 
-gite pull --groupProjectName
-gite pull --groupProjectName=all
-gite pull --groupProjectName=projectName
+- gite pull --groupProjectName
+- gite pull --groupProjectName=all
+- gite pull --groupProjectName=projectName
 
 
 ## Configuration
